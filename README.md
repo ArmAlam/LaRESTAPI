@@ -1,6 +1,6 @@
 ## About This Project
 
-This is an open-source Web Project powered by PHP Laravel. This project is developed to have more clear understanding on HOW to DEVELOP and API and also to INTEGRATE the API to another project.
+This is an open-source Web Project powered by PHP Laravel. This project is developed to have more clear understanding on HOW to DEVELOP an API and also to INTEGRATE the API to another project.
 
 Technologies that are used in this project
 
